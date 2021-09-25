@@ -15,7 +15,7 @@ In my spare time, I enjoy sports such as football and basketball.
 ### My skills:
 
 * Hard skills: Python, Pandas, NumPy, Flask, Django, REST, SQL, PostgreSQL, HTML, CSS
-* Soft skills: Teamwork, Excellent communication skills
+* Soft skills: Teamwork, Good communication skills, Flexibility/Adaptability
 
 
 ### Languages:
