@@ -12,7 +12,7 @@ In my spare time, I enjoy sports such as football and basketball.
 
 
 
-#E-mail: zh.akynov@gmail.com
+# E-mail: zh.akynov@gmail.com
 
 
 
