@@ -20,8 +20,8 @@ In my spare time, I enjoy sports such as football and basketball.
 
 ### Languages:
 
-🇷🇺 Russian – native
-🇬🇧 English – professional proficiency
+* 🇷🇺 Russian – native
+* 🇬🇧 English – intermediate level
 
 
 ### Contacts: 
