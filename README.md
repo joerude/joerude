@@ -8,8 +8,7 @@ In my spare time, I enjoy sports such as football and basketball.
 
 
 ### Contacts: 
-[![This is an image](https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg)](https://t.me/joerude)
-<img src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg" width="48">
+[<img src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg" width="48">](https://t.me/joerude)
 
 
 
@@ -19,6 +18,9 @@ E-mail: zh.akynov@gmail.com
 
 
 <!--
+[![This is an image](https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg)](https://t.me/joerude)
+
+
 **ma4akk/ma4akk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
