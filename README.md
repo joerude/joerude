@@ -8,7 +8,7 @@ In my spare time, I enjoy sports such as football and basketball.
 
 
 ### Contacts: 
-Telegram profile [joerude](t.me/joerude)
+Telegram profile [joerude](https://t.me/joerude)
 
 
 
