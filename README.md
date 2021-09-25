@@ -7,7 +7,7 @@ In my spare time, I enjoy sports such as football and basketball.
 
 ### My skills:
 
-* Hard skills: HTML, CSS, ES6, BEM, LESS, SASS, SCSS, JavaScript, NodeJS, WebPack, Gulp, Git, Github, Figma, Zeplin, Sketch, Photoshop
+* Hard skills: Python, Pandas, NumPy, Flask, Django, REST, SQL, PostgreSQL, HTML, CSS
 * Soft skills: Teamwork, Excellent communication skills
 
 
