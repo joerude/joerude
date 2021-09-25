@@ -7,8 +7,8 @@ In my spare time, I enjoy sports such as football and basketball.
 
 ### My skills:
 
--Hard skills: HTML, CSS, ES6, BEM, LESS, SASS, SCSS, JavaScript, NodeJS, WebPack, Gulp, Git, Github, Figma, Zeplin, Sketch, Photoshop
--Soft skills: Teamwork, Excellent communication skills
+* Hard skills: HTML, CSS, ES6, BEM, LESS, SASS, SCSS, JavaScript, NodeJS, WebPack, Gulp, Git, Github, Figma, Zeplin, Sketch, Photoshop
+* Soft skills: Teamwork, Excellent communication skills
 
 
 ### Contacts: 
