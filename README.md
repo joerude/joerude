@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 My name is Zhoomart I'm 23 years old, and I'm currently looking for a job as a junior python back-end developer or data Engineer.
 Any feedback and help are appreciated. 
