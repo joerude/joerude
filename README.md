@@ -9,6 +9,7 @@ In my spare time, I enjoy sports such as football and basketball.
 * [Python: основы и применение](https://stepik.org/cert/828539)
 * ["Поколение Python": курс для продвинутых](https://stepik.org/cert/1080745)
 * [Интерактивный тренажер по SQL](https://stepik.org/cert/1060948)
+* [Практикум по математике и Python](https://stepik.org/cert/828539)
 
 
 ### My skills:
