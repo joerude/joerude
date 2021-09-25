@@ -8,8 +8,8 @@ In my spare time, I enjoy sports such as football and basketball.
 
 
 ### Contacts: 
-[Telegram](t.me/joerude)
-E-mail: zh.akynov@gmail.com
+-[Telegram](t.me/joerude)
+-E-mail: zh.akynov@gmail.com
 
 
 
