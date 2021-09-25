@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Zhoomart, and I'm currently looking for a job as a junior back-end developer.
+My name is Zhoomart, and I'm currently looking for a job as a junior python back-end developer.
 Any feedback and help are appreciated. 
 In my spare time, I enjoy sports such as football and basketball. 
 
