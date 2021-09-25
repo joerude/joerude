@@ -6,7 +6,7 @@ In my spare time, I enjoy sports such as football and basketball.
 
 
 ### Experience & Education:
-* "Поколение Python": курс для продвинутых(https://stepik.org/cert/1080745)
+* ["Поколение Python": курс для продвинутых](https://stepik.org/cert/1080745)
 
 
 ### My skills:
