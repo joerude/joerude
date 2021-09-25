@@ -10,6 +10,10 @@ In my spare time, I enjoy sports such as football and basketball.
 ### Contacts: 
 Telegram profile [joerude](https://t.me/joerude)
 
+![This is an image](https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg)
+
+
+
 
 E-mail: zh.akynov@gmail.com
 
