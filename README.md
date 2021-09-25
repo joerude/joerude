@@ -8,9 +8,8 @@ In my spare time, I enjoy sports such as football and basketball.
 
 
 ### Contacts: 
-[![This is an image](https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg =250x250)](https://t.me/joerude)
+[![This is an image](https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg)](https://t.me/joerude)
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 
 
 
