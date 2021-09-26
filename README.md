@@ -1,6 +1,6 @@
 ### Hi there
 
-My name is Zhoomart I'm 23 years old, and I'm currently looking for a job as a junior python back-end developer or data Engineer.
+My name is Zhoomart I'm 23 years old, and I'm currently looking for a job as a junior python back-end developer or data engineer.
 Any feedback and help are appreciated. 
 In my spare time, I enjoy football, basketball, books and history. 
 
