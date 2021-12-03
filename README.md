@@ -26,7 +26,7 @@ In my spare time, I enjoy football, basketball, chess and history.
 
 ### Contacts: 
 [<img src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg" width="55">](https://t.me/joerude)
-
+[Stepic](https://stepik.org/users/17889698)
 
 
 #### E-mail: zh.akynov@gmail.com
