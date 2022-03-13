@@ -17,6 +17,9 @@ In my spare time, I enjoy football, basketball, chess and history.
 * Hard skills: Python, Pandas, NumPy, Flask, Django, REST, SQL, PostgreSQL, HTML, CSS
 * Soft skills: Teamwork, Good communication skills, Flexibility/Adaptability
 
+### My projects:
+* [Weather App](http://joerude.pythonanywhere.com/)
+
 
 ### Languages:
 
