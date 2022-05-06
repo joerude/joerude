@@ -19,6 +19,8 @@ In my spare time, I enjoy football, basketball, chess and history.
 
 ### My projects:
 * [Weather App](http://joerude.pythonanywhere.com/)
+* [Тестовое Kvartirka.com](https://github.com/joerude/kvartirka_api_test)
+* [Тестовое Bewise.ai](https://github.com/joerude/bewise-quiz-api-test)
 
 
 ### Languages:
