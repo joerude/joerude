@@ -20,6 +20,7 @@ In my spare time, I enjoy football, basketball, chess and history.
 ### My projects:
 * [Weather App](http://joerude.pythonanywhere.com/)
 * [Memorization tool](https://github.com/joerude/memorization-tool)
+* [React django Todo App](https://github.com/joerude/react-django-todo-app)
 * [Django local library](https://github.com/joerude/django_local_library)
 * [Тестовое Kvartirka.com](https://github.com/joerude/kvartirka_api_test)
 * [Тестовое Bewise.ai](https://github.com/joerude/bewise-quiz-api-test)
