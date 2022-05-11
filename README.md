@@ -31,6 +31,7 @@ In my spare time, I enjoy football, basketball, chess and history.
 * 🇷🇺 Russian – native
 * 🇬🇧 English – intermediate level
 
+### CV: [app.flowcv.io](https://app.flowcv.io/resume-feedback/5EEWkWyZQLpbZm4j6NkTx)
 
 ### Contacts: 
 [<img src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg" width="55">](https://t.me/joerude)
