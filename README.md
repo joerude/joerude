@@ -22,7 +22,7 @@ In my spare time, I enjoy football, basketball, chess and history.
 * [Memorization tool](https://github.com/joerude/memorization-tool)
 * [React django Todo App](https://github.com/joerude/react-django-todo-app)
 * [Django local library](https://github.com/joerude/django_local_library)
-* [Тестовое Kvartirka.com](https://github.com/joerude/kvartirka_api_test)
+* [REST API для системы комментариев блога (Тестовое Kvartirka.com)](https://github.com/joerude/kvartirka_api_test)
 * [Тестовое Bewise.ai](https://github.com/joerude/bewise-quiz-api-test)
 
 
@@ -41,16 +41,3 @@ In my spare time, I enjoy football, basketball, chess and history.
 #### E-mail: zh.akynov@gmail.com
 
 
-
-
-
-
-
-
-
-
-
-<!--
-[![This is an image](https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg)](https://t.me/joerude)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/512px-Circle-icons-mail.svg.png" heigth="48px" width="55">](https://zh.akynov@gmail.com/)
--->
