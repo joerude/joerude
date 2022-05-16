@@ -1,4 +1,4 @@
-### Hi there
+### Hello there
 
 My name is Zhoomart I'm 23 years old, and I'm currently looking for a job as a junior python back-end developer or data engineer.
 Any feedback and help are appreciated. 
@@ -28,7 +28,7 @@ In my spare time, I enjoy football, basketball, chess and history.
 
 ### Languages:
 
-* 🇷🇺 Russian – native
+* 🇷🇺🇰🇬 Russian/Kyrgyz – native
 * 🇬🇧 English – intermediate level
 
 ### CV: [app.flowcv.io](https://app.flowcv.io/resume-feedback/5EEWkWyZQLpbZm4j6NkTx)
