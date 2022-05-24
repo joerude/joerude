@@ -4,8 +4,9 @@ My name is Zhoomart I'm 23 years old, and I'm currently looking for a job as a j
 Any feedback and help are appreciated. 
 In my spare time, I enjoy football, basketball, chess and history. 
 
-
+ 
 ### Experience & Education:
+* ### 🎓 Bachelor of Applied Mathematics and Informatics, Moscow Polytechnical University (2016 – 2020). Moscow, Russia. Full-time Education. Full Tuition Scholarship
 * [Python: основы и применение](https://stepik.org/cert/828539)
 * ["Поколение Python": курс для продвинутых](https://stepik.org/cert/1080745)
 * [Практикум по математике и Python](https://stepik.org/cert/828539)
