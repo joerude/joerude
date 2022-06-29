@@ -47,8 +47,8 @@ Any feedback and help are appreciated.
 * [Memorization tool](https://github.com/joerude/memorization-tool)
 * [React django Todo App](https://github.com/joerude/react-django-todo-app)
 * [Django local library](https://github.com/joerude/django_local_library)
-* [REST API для системы комментариев блога (Тестовое Kvartirka.com)](https://github.com/joerude/kvartirka_api_test)
-* [Тестовое Bewise.ai](https://github.com/joerude/bewise-quiz-api-test)
+* [Тестовое в Kvartirka.com: REST API для системы комментариев блога](https://github.com/joerude/kvartirka_api_test)
+* [Тестовое в Bewise.ai: Викторина](https://github.com/joerude/bewise-quiz-api-test)
 * [Тестовое в Sibers: Лента новостей](https://github.com/joerude/sibers-test-newsfeed)
 
 
